@@ -1,6 +1,6 @@
 import argparse
 
-from syns import core
+from byword import core
 
 
 def main():
