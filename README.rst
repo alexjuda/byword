@@ -2,12 +2,13 @@
 byword
 ======
 
-CLI for generating synonyms using Datamuse API.
+CLI for generating synonyms using `Datamuse API <https://www.datamuse.com/api/>`_.
 
 Usage
 =====
 
 ::
+
     $ byword hello
     hi
     howdy
@@ -24,5 +25,6 @@ Installing
 ==========
 
 ::
+
     pipx install byword
 
