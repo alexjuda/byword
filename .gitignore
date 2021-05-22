@@ -1,0 +1,8 @@
+*.pyc
+*.egg-info
+.hypothesis
+
+.python-version
+
+.DS_Store
+
